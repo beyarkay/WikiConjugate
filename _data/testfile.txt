@@ -1,0 +1,14 @@
+F. nothing
+T. por
+T. para
+F. fpor
+F. paraf
+T. par
+T. .POR
+F. PORe
+T. PArA.
+F. PaRad
+T. para(
+T. )por
+T. (por
+T. para)

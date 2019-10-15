@@ -1,0 +1,2 @@
+\W(por)\W;      _____ (por/para)
+\W(para)\W;     _____ (por/para)

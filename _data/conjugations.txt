@@ -1,0 +1,18 @@
+\W(fui)\W;        _____ (ir/ser, yo) 
+\W(fuiste)\W;     _____ (ir/ser, tú)
+\W(fue)\W;        _____ (ir/ser, él/ella/usted)
+\W(fuimos)\W;     _____ (ir/ser, nosotros)
+\W(fuisteis)\W;   _____ (ir/ser, vosotros)
+\W(fueron)\W;     _____ (ir/ser, ellos/ellas)
+
+\W(era)\W;        _____ (ir/ser, yo/él/ella/usted)
+\W(eras)\W;       _____ (ir/ser, tú)
+\W(éramos)\W;     _____ (ir/ser, nosotros)
+\W(erais)\W;      _____ (ir/ser, vosotros)
+\W(eran)\W;       _____ (ir/ser, ellos/ellas)
+
+\W(iba)\W;        _____ (ir/ser, yo/él/ella/usted)
+\W(ibas)\W;       _____ (ir/ser, tú)
+\W(íbamos)\W;     _____ (ir/ser, nosotros)
+\W(ibais)\W;      _____ (ir/ser, vosotros)
+\W(iban)\W;       _____ (ir/ser, ellos/ellas)
